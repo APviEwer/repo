@@ -1,0 +1,14 @@
+Package: com.apviewer.repo.preview
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: APviEwer <support@invalid.example>
+Filename: debs/com.apviewer.repo.preview_0.0.1_iphoneos-arm64.deb
+Size: 814
+MD5sum: bce3041e4fc01991789dacd856bedd98
+SHA1: a28d6cae5f8193ec9753815c6db999555f444036
+SHA256: 3a973e21c367c7453c18cc622d340a51e466a177e810292de345e070ff6331aa
+Section: Utilities
+Description: Harmless source connectivity test. Contains only a README, no executable or installation scripts.
+Author: APviEwer
+Name: APviEwer Repo Preview
+
