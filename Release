@@ -1,0 +1,18 @@
+Origin: APviEwer Repo
+Label: APviEwer Repo
+Suite: stable
+Version: 0.1
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: APviEwer independent iOS repository - connectivity preview
+MD5Sum:
+ ef4eca9a95c8fbe2d7486e1550c72b5e 539 Packages
+ 910083bca1ee8371e2f752ad7c172fb3 388 Packages.gz
+ dbee47a8c06a21188c886c9f7df389ec 425 Packages.bz2
+ 55458ff3b0907cfc60d41018016b53dc 460 Packages.xz
+SHA256:
+ fcc06477ba3e1dc6ca0c49db9c5b34b02b34fbf4ba77bb05be8312f9d10404e2 539 Packages
+ 15dcf480ef9888aab17370dc1d02f16766caed8d76c5e330b2a570f65c7e3078 388 Packages.gz
+ 2d8bfe8be084ee8745e4be912da8b4d9c693652f0a290edb5d89f62e342c1ea0 425 Packages.bz2
+ c88bbc089947d35f9a6fa2e57033e2296d470f329e2671203b5e53803923e621 460 Packages.xz
